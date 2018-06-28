@@ -1,4 +1,4 @@
-# Running JavaScript Programs
+# Running A JavaScript Program
 
 Note: This document is a work in progress. If you find yourself here and have suggestions for how to improve it or questions contact me on twitter [@dwesty17](https://twitter.com/dwesty17) or by email at j.dylan.westerhold@gmail.com. I'll do my best to get back to you.
 
